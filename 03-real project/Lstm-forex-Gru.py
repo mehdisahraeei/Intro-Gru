@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# # Simple Gru
-# - developer: mehdi sahraei
-# - [link github](https://github.com/mehdisahraeei)
-
-# ### Importing
-
-# In[5]:
-
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
