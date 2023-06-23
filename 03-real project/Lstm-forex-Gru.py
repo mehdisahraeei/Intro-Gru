@@ -10,8 +10,6 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
 
 
-# ### Reading df
-
 # In[6]:
 
 
