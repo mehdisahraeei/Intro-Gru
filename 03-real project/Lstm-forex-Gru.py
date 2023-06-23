@@ -287,9 +287,6 @@ y_hat = model.predict(test_)
 y_hat
 
 
-# In[66]:
-
-
 y_hat = scaler.inverse_transform(y_hat)
 y_hat
 
